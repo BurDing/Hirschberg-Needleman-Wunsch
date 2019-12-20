@@ -1,8 +1,9 @@
 # Hirschberg-Needleman-Wunsch
 ## Time Complexity Analysis
-Open the CS466.ipynb
+The analysis part is the CS466.ipynb
 ## Space Complexity Analysis
+Run the run.sh to obatin the memory usage.
 ```
   bash run.sh
 ```
-Open the CS466.ipynb
+The analysis part is the CS466.ipynb
